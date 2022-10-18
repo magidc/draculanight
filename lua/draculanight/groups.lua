@@ -60,7 +60,7 @@ local function setup(configs)
       Title = { fg = colors.cyan, },
       Macro = { fg = colors.purple, },
       PreCondit = { fg = colors.cyan, },
-      Type = { fg = colors.cyan, },
+      Type = { fg = colors.bright_magenta, },
       StorageClass = { fg = colors.pink, },
       Structure = { fg = colors.yellow, },
       TypeDef = { fg = colors.yellow, },
